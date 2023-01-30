@@ -6,6 +6,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/RicAndino/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/RicAndino/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/RicAndino/ticket-lifecycle)
+  - [osTicket: Printer Issue](https://github.com/RicAndino/Printer-Issue)
+
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/RicAndino/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/RicAndino/azure-network-protocols)
