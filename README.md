@@ -17,4 +17,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/ricardi-andino-2b76601b3
+[linkedin]: https://linkedin.com/in/Ricardi-Andino
