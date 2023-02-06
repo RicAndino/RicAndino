@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ricardi, an <a href="https://linkedin.com/in/ricardi-andino-2b76601b3">IT Professional.</h1>
+<h1>Hi, I'm Ric, an <a href="https://linkedin.com/in/ricardi-andino-2b76601b3">IT Professional.</h1>
 
 
   <h2>👨‍💻 Information Technology Projects:</h2>
